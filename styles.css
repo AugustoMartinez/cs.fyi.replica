@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #111313;
+    color: white;
+    padding: 0 300px;
+}
+
+.navbar-link{
+    color: rgba(255,255,255,.5);
+}
